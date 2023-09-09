@@ -5,6 +5,7 @@
 }
 :root{
     --orange:#F2C14E;
+    --winning_blocks:#2d414b;
 }
 body{
     color:var(--orange);
