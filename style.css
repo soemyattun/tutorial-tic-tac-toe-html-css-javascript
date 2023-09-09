@@ -4,10 +4,10 @@
     box-sizing: border-box;
 }
 :root{
-    --kmt:red;
+    --orange:#F2C14E;
 }
 body{
-    color:var(--kmt);
+    color:var(--orange);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h1{
